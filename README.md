@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>👩‍💻I'm Abhishek Jaronkar from India<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 I'm currently learning Next.js and Three.js<br>- ⚡ In my free time I Code 😂
+💫 About Me:<br>👩‍💻I'm Abhishek Jaronkar from India<br><br>- 🔭 I’m working as MERN stack developer<br>- 📚 I'm currently learning Next.js <br>- ⚡ In my free time I Code 😂
 
 
 ## 🌐 Socials:
